@@ -1,5 +1,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+/// doc line1
+/// doc line2
 class BankAccount {
   // fields
   String owner, number;
