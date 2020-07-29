@@ -63,7 +63,7 @@ main() {
   print(' '.isEmpty);//false
   print(' '.trim().isEmpty);//true
 
-  var sb = new StringBuffer();
+  var sb = StringBuffer();
   sb.write('sb ');
   sb.writeAll(['efficient ', 'string ', 'creation ']);
   print(sb.toString());
